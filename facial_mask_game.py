@@ -1,6 +1,6 @@
-
-
-"""This script defines the face reconstruction model for Deep3DFaceRecon_pytorch
+"""
+This file includes code from the Deep3DFaceRecon_pytorch project, which is licensed
+under the MIT License. Copyright (c) 2022 Sicheng Xu.
 """
 
 import numpy as np
