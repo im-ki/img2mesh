@@ -1,5 +1,5 @@
 # img2mesh
-Image with human face to 3DMM. 
+Image with human face to 3DMM. This code is just for research purposes.
 
 This code is based on https://github.com/sicxu/Deep3DFaceRecon_pytorch
 
