@@ -18,9 +18,11 @@ TO BE COMPLETED !!!!!!
 
 Step 3: Compile the renderer.
 
+```console
 cd renderer
 python setup.py build_ext --inplace
 cd ..
+```
 
 Step 4: Put some images into the 'test_data' folder and run the code to generate 3DMM vectors and rendered images.
 
